@@ -1,6 +1,7 @@
 # Sveltestrap Starter
 
-Inspired by [Bootstrap's NPM Starter](https://github.com/twbs/bootstrap-npm-starter), [Svelte's template](https://github.com/sveltejs/template) and [Sveltestrap components](https://github.com/bestguy/sveltestrap).
+Inspired by [Bootstrap's NPM Starter](https://github.com/twbs/bootstrap-npm-starter) and [Svelte's template](https://github.com/sveltejs/template). 
+Uses [Sveltestrap components](https://github.com/bestguy/sveltestrap).
 
 Setup:
 
