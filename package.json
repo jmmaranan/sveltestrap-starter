@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "css-build": "npm run css",
-    "css-compile": "node-sass --include-path node_modules --output-style compressed --source-map true --source-map-contents true --precision 6 scss -o public/assets/css/",
+    "css-compile": "node-sass --include-path node_modules --output-style compressed --source-map true --source-map-contents true --precision 6 scss -o public/assets/",
     "css-lint": "stylelint scss/",
-    "css-prefix": "postcss --replace public/assets/css/global.css --use autoprefixer --map",
+    "css-prefix": "postcss --replace public/assets/global.css --use autoprefixer --map",
     "css-watch": "nodemon -e html,scss -x \"npm run css\"",
     "css-test": "npm run css-lint && npm run css",
     "css": "npm-run-all css-compile css-prefix",
