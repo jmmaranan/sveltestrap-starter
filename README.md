@@ -1,6 +1,6 @@
 # Sveltestrap Starter
 
-Combined Bootstrap's NPM Starter, Svelte's template and Sveltestrap components.
+Combined [Bootstrap's NPM Starter](https://github.com/twbs/bootstrap-npm-starter), [Svelte's template](https://github.com/sveltejs/template) and [Sveltestrap components](https://github.com/bestguy/sveltestrap).
 
 Setup:
 
